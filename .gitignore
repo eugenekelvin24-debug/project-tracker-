@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# AI Models (Don't upload 1GB+ files to GitHub!)
+.cache/
+huggingface/
+models/
+
+# Database & Logs
+*.db
+logs/
+*.log
+
+# OS specifics
+.DS_Store
+Thumbs.db
